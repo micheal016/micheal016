@@ -1,4 +1,4 @@
-# <p align="center">✨ Hi there, I'm Micheal! 👋</p>
+# <p align="center">✨ Hi there, I'm Rachid! 👋</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=Micheal%20016&fontSize=80&animation=fadeIn&fontAlignY=38" />
